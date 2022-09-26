@@ -1,0 +1,54 @@
+/* css reset */
+body {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background-size: 500px;
+    height: 405px;
+}
+.form-group {
+    font-size: larger;
+    font-weight: bolder;
+    display: block;
+    width: 400px;
+    padding: 1px;
+    font-size: 20px;
+}
+
+.form-group input {
+    border: 2px solid rgb(0, 0, 0);
+    margin: 11px 11px;
+    font-size: 15px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.container {
+    display: inline-block;
+    padding-top: 250px;
+    color: white;
+    margin-left: 370px;
+    padding-right: 400px;
+    width: 300px;
+
+}
+
+.container button {
+    width: 35%;
+    margin: 8px;
+} 
+.content{
+    padding-bottom:200px ;
+}
+.container h1{
+    padding-left: 100px;
+}
+.reset {
+    margin-left: 60px;
+}
+.signup{
+    padding-left: 120px;
+    color: rgb(231, 233, 132);
+    font-size: 30px;
+}
+

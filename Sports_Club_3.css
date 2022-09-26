@@ -1,0 +1,43 @@
+/* css reset */
+body {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    /* background: url('fitness_4.jpg'); */
+    background-size: 1200px;
+    height: 405px;
+}
+.form-group {
+    font-size: larger;
+    font-weight: bolder;
+    display: block;
+    width: 400px;
+    padding: 1px;
+    font-size: 20px;
+    color: white;
+}
+
+.form-group input {
+    border: 2px solid rgb(0, 0, 0);
+    /* text-align: center; */
+    margin: 11px 11px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.container {
+    padding-top: 400px;
+    color: white;
+    margin-left: 370px;
+    padding-right: 400px;
+    width: 300px;
+    margin-bottom: 200px;
+
+}
+.container h1{
+    padding-left: 100px;
+}
+.reset{
+    padding-left: 90px;
+}
+
