@@ -4,8 +4,8 @@ body {
     margin: 0px;
     padding: 0px;
     /* background: url('fitness_4.jpg'); */
-    background-size: 1300px;
-    height: 800px;
+    background-size: 100%;
+    height: 100%;
 }
 .form-group {
     font-size: larger;
