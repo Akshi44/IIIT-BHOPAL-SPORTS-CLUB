@@ -1,2 +1,1 @@
-# IIIT-BHOPAL-SPORTS-CLUB
-https://akshi44.github.io/IIIT-BHOPAL-SPORTS-CLUB/
+
