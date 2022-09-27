@@ -1,1 +1,2 @@
-
+This is IIIT BHOPAL`s SPORTS CLUB WEBSITE.
+https://akshi44.github.io/IIIT-BHOPAL-SPORTS-CLUB/
